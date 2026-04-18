@@ -5,12 +5,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Enzo Bonzi Cassilhas
+- Matricula: 1648935
 
 ## Print do console do navegador
 
-<<  COLOQUE A IMAGEM AQUI >>
+[Texto Alternativo](<public/Print -Resultado js.png>)
 
 
 
